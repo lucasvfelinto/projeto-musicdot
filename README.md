@@ -11,6 +11,7 @@ O projeto MusicDot é uma iniciativa de estudo para aprender a desenvolver um si
 O site MusicDot terá as seguintes funcionalidades básicas:
 
 - Página inicial com informações sobre a MusicDot e destaque para os cursos disponíveis.
+- A página "Sobre a Empresa" fornecerá informações detalhadas sobre a MusicDot, incluindo sua missão, visão e valores.
 - Página de cursos, exibindo os cursos disponíveis e permitindo filtrá-los por instrumento, nível de dificuldade, etc.
 - Página de detalhes do curso, exibindo informações detalhadas sobre o curso selecionado.
 - Página de contato, permitindo que os usuários entrem em contato com a equipe da MusicDot.
@@ -36,7 +37,7 @@ Se deseja contribuir com o projeto MusicDot, siga os passos abaixo:
 
 ## Autor ✍️
 
-Este projeto está sendo desenvolvido por [Seu Nome] como parte do curso de HTML, CSS e JavaScript da [Alura](https://www.alura.com.br/).
+Este projeto está sendo desenvolvido por [lucasvelinto](https://github.com/lucasvfelinto) como parte do curso de HTML, CSS e JavaScript da [Alura](https://www.alura.com.br/).
 
 ## Licença 📄
 
