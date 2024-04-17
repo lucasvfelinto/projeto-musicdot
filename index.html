@@ -2,15 +2,30 @@
 <html>
 
 <head>
-    <title>MusicDot</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>MusicDot</title>
     <link href="img/favicon.ico" rel="icon">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,&display=block">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/cabecalho.css">
     <link rel="stylesheet" href="css/sobre.css">
 </head>
 
 <body>
-    <img src="img/logo.svg" alt="MusicDot">
-    <h1>MusicDot</h1>
+
+    <header class="cabecalho">
+        <img src="img/logo.svg" title="Ir para a pagina inicial da MusicDot" alt="MusicDot">
+        <nav>
+            <ul class="cabecalho__menu">
+                <li class="cabecalho__item-menu"> <a href="sobre.html#contato"> Contato </a> </li>
+                <li class="cabecalho__item-menu"> <a href="#"> Entrar </a> </li>
+                <li class="cabecalho__item-menu"> <a href="#">Matricule-se</a> </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>MusicDot</h1>
     <h2>Bem-vindo à MusicDot, seu portal de cursos de música online.</h2>
     <ul>
         <ol>
@@ -28,6 +43,12 @@
             <figcaption>Matriz da MusicDot</figcaption>
         </figure>
     </ul>
+    </main>
+    
+    <footer class="rodape">
+        <img src="img/logo.svg" alt="Logo da musicdot" class="rodape__logo">
+        <p class="rodape__copyright"> &copy; Copyright MusicDot </p>
+    </footer>
 
 </body>
 
