@@ -49,3 +49,8 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: inherit;
 }
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+}

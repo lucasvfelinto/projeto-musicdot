@@ -2,6 +2,68 @@
 
 Este é o repositório para o projeto MusicDot, desenvolvido como parte do curso de HTML, CSS e JavaScript da Alura. O objetivo deste projeto é criar um site para a MusicDot, uma plataforma de ensino de música online.
 
+## Como Rodar o Projeto 🚀
+
+Para rodar este projeto, siga as instruções abaixo:
+
+### Pré-requisitos
+
+Antes de começar, certifique-se de ter o seguinte instalado em seu sistema:
+
+- Um editor de código, como o Visual Studio Code (VS Code).
+- Git, para clonar este repositório, se ainda não estiver instalado.
+
+### Passo a Passo
+
+1. **Encontre a pasta do projeto pelo terminal:**
+
+   No Windows:
+
+   - Pressione `Win + R`, digite `cmd` e pressione Enter para abrir o prompt de comando.
+   - Use o comando `cd` (change directory) para navegar até a pasta onde deseja clonar o projeto. Por exemplo:
+
+     ```bash
+     cd caminho/para/a/pasta
+     ```
+
+   No macOS ou Linux:
+
+   - Abra o Terminal.
+   - Use o comando `cd` para navegar até a pasta onde deseja clonar o projeto. Por exemplo:
+
+     ```bash
+     cd caminho/para/a/pasta
+     ```
+
+2. **Clone o repositório:**
+
+   No terminal, execute o seguinte comando para clonar o repositório:
+
+   ```bash
+   git clone https://github.com/lucasvfelinto/projeto-musicdot.git
+   ```
+   Este comando irá baixar todos os arquivos do repositório para a pasta atual do terminal.
+
+3. **Abra a pasta do projeto no Visual Studio Code:**
+
+    - Após o clone, você pode abrir a pasta do projeto no Visual Studio Code de duas maneiras:
+
+    - Use o seguinte comando no terminal para abrir o VS Code na pasta do projeto:
+        ```bash 
+        code projeto-musicdot
+        ```
+    - Ou, abra o VS Code manualmente e selecione "File > Open Folder" (ou "Arquivo > Abrir Pasta" em sistemas em português) e navegue até a pasta do projeto.
+
+4. **Visualize o site no navegador:**
+
+    - **Opção 1:** Abra o arquivo `index.html` diretamente no navegador.
+
+    - **Opção 2:** Instale a extensão Live Server no VS Code para visualizar o site de forma dinâmica:
+
+        - No VS Code, pressione `Ctrl + Shift + X` para abrir o painel de extensões.
+        - Pesquise por "Live Server" e instale a extensão oferecida por Ritwick Dey.
+        - Após a instalação, clique com o botão direito no arquivo `index.html` e selecione "Open with Live Server" para iniciar o servidor.
+
 ## Descrição 🎸
 
 O projeto MusicDot é uma iniciativa de estudo para aprender a desenvolver um site utilizando as tecnologias web fundamentais: HTML, CSS e JavaScript. Através deste projeto, iremos construir as páginas e funcionalidades básicas para uma plataforma fictícia de ensino de música online.
